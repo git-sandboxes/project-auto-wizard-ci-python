@@ -24,7 +24,7 @@ env:
   # Unique project identifier (used for container, image and domain names)
   PROJECT_NAME: "project-auto-wizard-ci-python"
   # Subdirectory of this project in a monorepo ('.' means always verify)
-  PROJECT_PATH: "."
+  PROJECT_PATH: "api"
   # Python version used for tests and dependency install
   PYTHON_VERSION: "3.12"
 
